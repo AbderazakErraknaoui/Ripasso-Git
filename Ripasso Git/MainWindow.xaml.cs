@@ -22,6 +22,7 @@ namespace Ripasso_Git
     {
         public MainWindow()
         {
+            //ciao
             InitializeComponent();
         }
     }
